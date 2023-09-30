@@ -1,6 +1,6 @@
 ![DLE-16.x](https://img.shields.io/badge/DLE-16.x-green.svg?style=flat-square)
 
-# VietnameseDLE
+# DLE Vietnamese
 Dự án dịch ngôn ngữ tiếng Việt cho mã nguồn DataLife Engine
 Đây là dự án đã được thực hiện từ lâu của DLEVIET, nhưng do admin bận việc quá nhiều nên không có thời gian thực hiện liên tục.
 Nay admin DLEVIET công bố lên đây để cộng đồng người Việt đang sử dụng DLE có thể đóng góp và sử dụng.
@@ -10,5 +10,13 @@ Nay admin DLEVIET công bố lên đây để cộng đồng người Việt đa
 2. Thêm ngôn ngữ tiếng Việt, chỉnh sửa, cập nhật thêm cho phiên bản DLE mới nhất
 3. Tổng hợp thêm các ngôn ngữ khác do các coder các nước đã chuyển ngữ
 
+# SOME OTHERS PROJECT IN OTHER LANGUAGES
+1. [Lithuania](https://github.com/mondolfo/DLE)
+2. [Chinese](https://github.com/imdabao/dle_zh-cn)
+
+# ENGLISH GREETING
+Hello all admin from around the world, I'm from Vietnam. I'm running website [DLEVIET](https://dleviet.com). I hope we can share our knowledge about coding and running DLE.
+
 # DANH SÁCH CÁC CODER ĐÃ HỖ TRỢ
 Mọi sự đóng góp sẽ được ghi nhận và đăng lên đây để tỏ lòng biết ơn!
+
