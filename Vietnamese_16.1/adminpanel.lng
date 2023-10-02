@@ -99,8 +99,7 @@ $lang = array (
 'indexnow_error_422'	=>	"Khóa không hợp lệ. Vị trí khóa không chính xác hoặc tập tin không chứa khóa, được chỉ định trong cài đặt tập lệnh",
 'indexnow_error_429'	=>	"Quá nhiều yêu cầu (potential Spam).",
 'opt_sys_turl'			=>	"Bật chuyển ngữ URL:",
-'opt_sys_turld'			=>	"When this option is enabled, the characters will be transliterated into Latin when forming the URL. For example, when this option is enabled, the publication URL will look like: http://yoursite.com/id-imja-novosti.html, and when disabled, it will look like: http://yoursite.com/id-имя-новости.html
-Khi 'Bật', các ký tự sẽ được phiên âm sang tiếng Latin khi tạo URL. Ví dụ: URL bài viết sẽ có dạng: http://yoursite.com/id-imja-novosti.html và khi bị tắt, nó sẽ có dạng: http://yoursite.com/id -имя-новости.html",
+'opt_sys_turld'			=>	"Khi 'Bật', các ký tự sẽ được phiên âm sang tiếng Latin khi tạo URL. Ví dụ: URL bài viết sẽ có dạng: http://yoursite.com/id-imja-novosti.html và khi bị tắt, nó sẽ có dạng: http://yoursite.com/id-имя-новости.html",
 'mass_add_cloud'		=>	"Thêm từ vào đám mây thẻ",
 'plugins_not_found_2'	=>  "Không tìm thấy plugin nào cho truy vấn tìm kiếm của bạn",
 'opt_sys_imshr'			=>	"Sử dụng bộ nhớ ngoài cho thư mục có hình ảnh được chia sẻ",
@@ -122,14 +121,14 @@ Khi 'Bật', các ký tự sẽ được phiên âm sang tiếng Latin khi tạo
 // 15.2
 
 // 15.1
-'opt_sys_imfs_6'		=>	"Any S3 compatible storage",
-'opt_sys_imfend'		=>	"Specify an entry point URL to connect to the external storage (EndPoint).  For example, https://s3.website.com",
+'opt_sys_imfs_6'		=>	"Mọi bộ lưu trữ tương thích với S3",
+'opt_sys_imfend'		=>	"Thiết lập URL điểm nhập để kết nối với bộ nhớ ngoài (EndPoint). Ví dụ, https://s3.website.com",
 'up_im_expand'			=>	"Zoom",
-'up_im_copy'			=>	"Copy link",
-'up_im_copy1'			=>	"Copied to clipboard",
-'opt_sys_pfile'			=>	"Allow uploading publicly available files to the server",
-'opt_sys_pfiled'		=>	"Uploading publicly available files will be allowed, users will be able to download the files directly from the server without using the DataLife Engine script and without any limitations",
-'public_file_upl'		=>	"Upload a publicly available file",
+'up_im_copy'			=>	"Sao chép đường dẫn",
+'up_im_copy1'			=>	"Đã sao chép vào clipboard",
+'opt_sys_pfile'			=>	"Cho phép tải lên máy chủ các tập tin hiển thị công khai", // English fix
+'opt_sys_pfiled'		=>	"Việc tải lên các tập tin hiển thị công khai sẽ cho phép người dùng có thể tải xuống bằng liên kết trực tiếp trên máy chủ, bỏ qua việc ẩn liên kết và xử lý của DataLife Engine và bỏ qua tất cả hạn chế",
+'public_file_upl'		=>	"Tải lên tập tin có thể truy cập công khai",
 'show_all_action'		=>	"Show actions",
 'hide_all_action'		=>	"Hide actions",
 'duplicate_protect'		=>	"The data has already been successfully sent.",
